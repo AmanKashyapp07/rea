@@ -1,0 +1,13 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.9.1
+2 info using node@v20.15.1
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/workspaces/ef09fd90-680f-4363-99f0-580ea6296fd3/backend/.npmrc
+5 silly config load:file:/workspaces/ef09fd90-680f-4363-99f0-580ea6296fd3/.npmrc
+6 silly config load:file:/etc/npmrc
+7 verbose title npm run dev
+8 verbose argv "run" "dev" "--prefix" "backend"
+9 verbose logfile logs-max:10 dir:/workspaces/ef09fd90-680f-4363-99f0-580ea6296fd3/.npm/_logs/2026-07-03T13_10_26_270Z-
+10 verbose logfile /workspaces/ef09fd90-680f-4363-99f0-580ea6296fd3/.npm/_logs/2026-07-03T13_10_26_270Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
+12 silly logfile done cleaning log files

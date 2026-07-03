@@ -43,7 +43,7 @@ function App() {
           Modern Full-Stack <span className="gradient-text">Starter Template</span>
         </h1>
         <p className="hero-subtitle">
-          A premium developer template optimized for high-performance React client apps connected to Express.js Node backends.
+          My name is aman kashyap
         </p>
       </header>
 
