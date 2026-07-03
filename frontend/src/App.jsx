@@ -10,11 +10,11 @@ function App() {
   const fetchBackendData = async () => {
     setLoading(true);
     try {
-      const msgRes = await fetch('/api/message');
+      const msgRes = await fetch('./api/message');
       const msgData = await msgRes.json();
       setBackendMessage(msgData.text);
 
-      const healthRes = await fetch('/api/health');
+      const healthRes = await fetch('./api/health');
       const healthData = await healthRes.json();
       setHealthStatus(healthData);
       setPingCount((prev) => prev + 1);
